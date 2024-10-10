@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tech_sasan_safari/constant/my_string.dart';
+import 'package:tech_sasan_safari/component/my_string.dart';
 import 'package:tech_sasan_safari/gen/assets.gen.dart';
 import 'package:tech_sasan_safari/views/home_screen.dart';
 import 'package:tech_sasan_safari/views/profile_screen.dart';
-import '../constant/my_colors.dart';
+import '../component/my_colors.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});

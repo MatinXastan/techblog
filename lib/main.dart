@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:tech_sasan_safari/constant/my_colors.dart';
+import 'package:tech_sasan_safari/component/my_colors.dart';
 import 'package:tech_sasan_safari/views/main_screen.dart';
 import 'package:tech_sasan_safari/views/my_cats.dart';
 import 'package:tech_sasan_safari/views/register_intro.dart';
@@ -156,7 +156,7 @@ class MyApp extends StatelessWidget {
         Locale('fa', ''), // English
       ],
       // home: const SplashScreen(),
-      home: const MyCats(),
+      home: const MainScreen(),
     );
   }
 }

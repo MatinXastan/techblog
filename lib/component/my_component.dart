@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tech_sasan_safari/constant/my_colors.dart';
+import 'package:tech_sasan_safari/component/my_colors.dart';
 import 'package:tech_sasan_safari/models/data_model.dart';
 import 'package:tech_sasan_safari/models/fake_data.dart';
 

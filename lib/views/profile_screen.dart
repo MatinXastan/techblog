@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tech_sasan_safari/constant/my_colors.dart';
-import 'package:tech_sasan_safari/constant/my_string.dart';
+import 'package:tech_sasan_safari/component/my_colors.dart';
+import 'package:tech_sasan_safari/component/my_string.dart';
 import 'package:tech_sasan_safari/gen/assets.gen.dart';
-import 'package:tech_sasan_safari/my_component.dart';
+import 'package:tech_sasan_safari/component/my_component.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({
